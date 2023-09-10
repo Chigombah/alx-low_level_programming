@@ -2,9 +2,9 @@
 
 
 /*
- *main - A C program that prints exactly "Programming is like building a multilingual puzzle".
+ * main - prints message "Programming is like building a multilingual puzzle".
 
- Return: 0 (successful)
+ * Return: 0 (successful)
  */
 
 int main(void)
