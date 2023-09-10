@@ -1,16 +1,13 @@
 #include <stdio.h>
 
 
+/*
+ *main - A C program that prints exactly "Programming is like building a multilingual puzzle".
 
-/**
- *	 A C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
-
-	 Use the function puts
-	 You are not allowed to use printf
-	 Your program should end with the value 0successful)
+ Return: 0 (successful)
  */
 
-	int main(void)
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
